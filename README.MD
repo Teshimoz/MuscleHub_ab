@@ -1,5 +1,7 @@
 # MuscleHub Gym
-Project MuscleHub Gym is about A/B testing
+Project MuscleHub Gym is about A/B testing<br>
+Rendered notebook here:<br>
+https://nbviewer.org/github/Teshimoz/ab_test_gym/blob/b2aaa9597eb2c1d1d156b35b3dff5fde672b190c/musclehub_ab_project.ipynb
 <br><br>
 All *.csv files provided by Codacademy platform, from Projects in Data Science section.<br>
 Project description:<br>
