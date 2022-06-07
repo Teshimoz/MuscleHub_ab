@@ -10,4 +10,4 @@ Next step was filling an application and the last one (hopefully) purchasing.<br
 We want to understand how a fitness test influenced the number of people purchased a membership in the MuscleHub Gym.
 <br>
 <br>
-All *.csv files provided by Codacademy platform, from Projects in Data Science section.
+<i>All *.csv files provided by Codacademy platform, from Projects in Data Science section.</i>
