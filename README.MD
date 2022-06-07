@@ -1,6 +1,6 @@
 # MuscleHub Gym
 Project MuscleHub Gym is about A/B testing<br>
-<b>Rendered notebook here:</b><br>
+<b>Rendered notebook:</b><br>
 https://nbviewer.org/github/Teshimoz/ab_test_gym/blob/b2aaa9597eb2c1d1d156b35b3dff5fde672b190c/musclehub_ab_project.ipynb
 <br><br>
 <b>Project description:</b><br>
