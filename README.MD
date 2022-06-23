@@ -1,11 +1,11 @@
 # MuscleHub Gym
 A/B testing for MuscleHub gym<br>
 <b>Rendered notebook:</b><br>
-https://nbviewer.org/github/Teshimoz/ab_test_gym/blob/1ca907bc00ff8dbebad160dc6b67a5005687f592/musclehub_ab_project.ipynb
+https://nbviewer.org/github/Teshimoz/MuscleHub_ab/blob/6110c9d0986c8ab65c131e1db7c1903907a45961/musclehub_ab_project.ipynb
 <br><br>
 <b>Project description:</b><br>
 I worked on data from MuscleHub gym. There was the A/B test for the new clients:<br>
-Group A clients get a fitness test at first visit of gym, group B skipped the test<br>
+Group A clients got a fitness test at first visit of gym, group B skipped the test<br>
 Next step was filling an application and the last one (hopefully) purchasing.<br><br>
 <b>I wanted to understand how a fitness test influenced the number of people purchased a membership in the MuscleHub Gym. </b><br>
 <br>Following tasks completed:
