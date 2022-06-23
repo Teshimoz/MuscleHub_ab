@@ -1,13 +1,20 @@
 # MuscleHub Gym
-Project MuscleHub Gym is about A/B testing<br>
+A/B testing for MuscleHub gym<br>
 <b>Rendered notebook:</b><br>
-https://nbviewer.org/github/Teshimoz/ab_test_gym/blob/b2aaa9597eb2c1d1d156b35b3dff5fde672b190c/musclehub_ab_project.ipynb
+https://nbviewer.org/github/Teshimoz/ab_test_gym/blob/1ca907bc00ff8dbebad160dc6b67a5005687f592/musclehub_ab_project.ipynb
 <br><br>
 <b>Project description:</b><br>
-We are working on data from MuscleHub Gym, there was an A/B test:<br>
-Group A people get a fitness test at first visit of gym, group B skipped the test.<br>
-Next step was filling an application and the last one (hopefully) purchasing.<br>
-We want to understand how a fitness test influenced the number of people purchased a membership in the MuscleHub Gym.
-<br>
-<br>
-<i>All *.csv files provided by Codacademy platform, from Projects in Data Science section.</i>
+I worked on data from MuscleHub gym. There was the A/B test for the new clients:<br>
+Group A clients get a fitness test at first visit of gym, group B skipped the test<br>
+Next step was filling an application and the last one (hopefully) purchasing.<br><br>
+<b>I wanted to understand how a fitness test influenced the number of people purchased a membership in the MuscleHub Gym. </b><br>
+<br>Following tasks completed:
+* Checked the distribution of clients in A/B groups (the balance)
+* Plotted funnels for different groups
+* Checked if the difference is statistically significant between A/B groups, between other subgroups by Chi-square test
+* Visualized the distridutions of applied and purchesed clients in different groups
+* Implemented the function to generate the scheme (illustration) which groups are in current test
+* Answered number of questions about the clients, as well tested additional hypothesis for gender subgroups
+* Plotted p-values for all tested groups on final barchart for general conclusions
+
+*All .csv files provided by Codacademy platform, from Projects in Data Science section*
